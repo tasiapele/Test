@@ -1,5 +1,7 @@
 /* Your Website Styles */
-
+img{
+	width: 320px;
+}
 
 /* Show Grid */
 .showgrid {
