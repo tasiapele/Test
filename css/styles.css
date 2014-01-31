@@ -1,4 +1,10 @@
 /* Your Website Styles */
+
+body{
+	/*transparent background*/
+	background: rgba(255, 0, 61, 0.41);
+}
+
 img{
 	width: 320px;
 }
